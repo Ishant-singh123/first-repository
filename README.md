@@ -47,10 +47,18 @@ After modifying any file how to make that same change in github :-
 
  1.  check      git status 
  2.  git add.
- 3.  git commit --m "kuch bhi likh do"                              commas bhi lagaeeoo
+ 3.  git commit -m "kuch bhi likh do"                              commas bhi lagaeeoo
  4.  git push origin main 
 
 
+
+ How to make repository through terminal:-
+ 1.  cd ..
+ 2.  mkdir (write the name of new repository you want to make )                        Ye bracket maat lagaeoo
+ ye repository phir github mai update karne ke liye 
+ git add.
+ git commit -m "kuch bhi likh do"                              commas bhi lagaeeoo
+ git init                                                       for making in it git 
 
 
 
