@@ -1,4 +1,4 @@
 # first-repository
 Myself Ishant singh
 <br>
-This is my first repository as going to  Github  user .
+Currently I am pursuing B.Tech in computer science in engineering from NIT Patna
