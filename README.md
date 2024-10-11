@@ -55,10 +55,13 @@ After modifying any file how to make that same change in github :-
  How to make repository through terminal:-
  1.  cd ..
  2.  mkdir (write the name of new repository you want to make )                        Ye bracket maat lagaeoo
- ye repository phir github mai update karne ke liye 
- git add.
- git commit -m "kuch bhi likh do"                              commas bhi lagaeeoo
- git init                                                       for making in it git 
+ 3.  git init                                                                          for making in it git 
+
+
+
+
+ ye repository phir github mai update karne ke liye:-
+  
 
 
 
