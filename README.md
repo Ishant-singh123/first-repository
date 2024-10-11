@@ -10,18 +10,18 @@ To be a good software engineere, I  start learning Github
 
 
 The keyword use in Git and as well as in visual studio code terminal are :-
-git version
-clear
-pwd
-ls
-git status
--a
-git config --global user.name "voh wala user name dalo jo id bante time us kara tha "              or ye commas bhi lagana h 
-git config --global user. email"voh email dalo jo id bante time use kari thi "                     or ye commas bhi lagana h 
-git clone
-git add.
-git commit -m " any reason"     also type that commas
-git push origin main
+1.  git version
+2.  clear
+3.  pwd
+4.  ls
+5.  git status
+6.  -a
+7.  git config --global user.name "voh wala user name dalo jo id bante time us kara tha "              or ye commas bhi lagana h 
+8.  git config --global user. email"voh email dalo jo id bante time use kari thi "                     or ye commas bhi lagana h 
+9.  git clone
+10.  git add.
+11.  git commit -m " any reason"     also type that commas
+12.  git push origin main
 
 
 
@@ -50,7 +50,7 @@ After modifying any file how to make that same change in github :-
  3.  git commit --m "kuch bhi likh do"                              commas bhi lagaeeoo
  4.  git push origin main 
 
- 
+
 
 
 
