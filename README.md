@@ -22,6 +22,8 @@ The keyword use in Git and as well as in visual studio code terminal are :-
 10.  git add.
 11.  git commit -m " any reason"     also type that commas
 12.  git push origin main
+13.  cd                                 to enter in any repository 
+14.  cd ..                                to exit from any repository 
 
 
 
@@ -61,7 +63,7 @@ After modifying any file how to make that same change in github :-
 
 
  ye repository phir github mai update karne ke liye:-
-  
+
 
 
 
