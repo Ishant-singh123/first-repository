@@ -45,9 +45,9 @@ How to link your github repository to visual code :-
 
 
 
-After modifying any file how to make that same change in github :-
+After modifying any file in VS code  how to make that same change in github :-
 
- 1.  check      git status 
+ 1.  git status                                                     for checking
  2.  git add.
  3.  git commit -m "kuch bhi likh do"                              commas bhi lagaeeoo
  4.  git push origin main 
@@ -62,8 +62,10 @@ After modifying any file how to make that same change in github :-
 
 
 
- ye repository phir github mai update karne ke liye:-
-
+ ---->  Ye repository phir github mai update karne ke liye git hub prr he ek new repository banani hogi 
+        phir link ka use hoga
+        
+         
 
 
 
