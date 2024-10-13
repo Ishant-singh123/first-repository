@@ -57,18 +57,18 @@ After modifying any file in VS code  how to make that same change in github :-
  How to make repository through terminal:-
  1.  cd ..
  2.  mkdir (write the name of new repository you want to make )                        Ye bracket maat lagaeoo
- 3.  git init                                                                          for making in it git 
 
 
 
 
  ---->  Ye repository phir github mai update karne ke liye git hub prr he ek new repository banani hogi 
         phir link ka use hoga
-        1.  git remote add origin (phir link paste kardo new repository jis name se VScode mai bani h usmai )                   ye bracket maat use kario
-        2.  git remote -v                                       to check the remote
-        3.  git branch                                          to check which branch you are in 
-        4.  git branch -M (new name which you want)             bracket maat lagaeoo
-        5.  git push origin main
+        1.   git init                                    init file bane se phele kario,                       for making in it git 
+        2.  git remote add origin (phir link paste kardo new repository jis name se VScode mai bani h usmai ) ye bracket maat use kario
+        3.  git remote -v                                       to check the remote
+        4.  git branch                                          to check which branch you are in 
+        5.  git branch -M (new name which you want to give this branch)             bracket maat lagaeoo
+        6.  git push origin main
 
 
 
