@@ -71,6 +71,14 @@ After modifying any file in VS code  how to make that same change in github :-
         6.  git push origin main
 
 
+Aab file ki branch bane ki bari, jo new repository bani thi us mai bus uska name change karne ke liye use hua tha branch word nahi toh mere hisab se file ki branch bani jati h 
+1.  git checkout -b (brnch ka name )                                 to branch create karne ke liye, bracket maat lagaeoo
+2.  git checkout (name of the created branch where you want to go)    to switch you branch      
+3.  git branch -d (name of the you want to delete)                       to delet the branch, jis prr honge us branch ko hum delete nahi kar sakte aapne se dusri wali branch ko delete kar sakte h
+----> git branch -M (new name )                      to give new name to branch 
+
+
+
 
 
 
