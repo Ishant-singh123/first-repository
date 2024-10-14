@@ -61,7 +61,7 @@ After modifying any file in VS code  how to make that same change in github :-
 
 
 
- ---->  Ye repository phir github mai update karne ke liye git hub prr he ek new repository banani hogi 
+ ---->  Ye repository phir github mai update karne ke liye git hub prr he ek new repository banani hogi uska
         phir link ka use hoga
         1.   git init                                    init file bane se phele kario,                       for making in it git 
         2.  git remote add origin (phir link paste kardo new repository jis name se VScode mai bani h usmai ) ye bracket maat use kario
@@ -75,7 +75,42 @@ Aab file ki branch bane ki bari, jo new repository bani thi us mai bus uska name
 1.  git checkout -b (brnch ka name )                                 to branch create karne ke liye, bracket maat lagaeoo
 2.  git checkout (name of the created branch where you want to go)    to switch you branch      
 3.  git branch -d (name of the you want to delete)                       to delet the branch, jis prr honge us branch ko hum delete nahi kar sakte aapne se dusri wali branch ko delete kar sakte h
+
+
 ----> git branch -M (new name )                      to give new name to branch 
+
+1.  file ki branch hum jaise he banenge hume us file or uski sub file ka clone mil jayega 
+2.  phir hum susmai kuch bhi modify  kar sakte h.
+3.  us modify ko add bhi karna h (git add .)
+4.  phir commit bhi karna h(git commit -m"reason") 
+
+
+aab branches(main or feature1) ko Github mai lana h toh, or jo base branch h usmai same he features aa jayenge (prr voh VS code nahi aayenge)   ( branches mai add commit kar rakha h , push aabhi nahi kara)
+1.  git push origin ( branch ka name )
+phir Githib prr request aaegi 
+2.  toh use accept karnna h
+proceed karte raho us request mai 
+
+
+aab voh main(base) branch mai features aae h use Vs code mai kaise laee
+1.  git pull origin main
+
+
+aab do branch ko merge karenge VS code mai or dono branch similar nahi h 
+Dono branches change karke add then commit kar rakha h 
+1.  git diff (dusri wali branch ka name  jis prr bethe nahi h )               breacket maay laga eeooo
+phir 2 methof h 
+i- pull request 
+ii - by VS code 
+toh is bar hum Vs code se karenge 
+1.  git merge (dusri wali branch ka name jis prr hum nahi h )
+phir ya toh uppar jo option aa rahe h us se karlo 
+ya phir extra jo line aa rahi h us harao 
+phir add karlo  then commit normally 
+Phir check karne ke liye git diff( dusri wali branch ka name ) phir 
+git push origin main   karna h   
+
+
 
 
 
