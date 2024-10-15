@@ -92,30 +92,22 @@ phir Githib prr request aaegi
 proceed karte raho us request mai 
 
 
-aab voh main(base) branch mai features aae h use Vs code mai kaise laee
+aab voh main(base) branch mai features aae h use VS code mai kaise laee
 1.  git pull origin main
 
 
 aab do branch ko merge karenge VS code mai or dono branch similar nahi h 
 Dono branches change karke add then commit kar rakha h 
 1.  git diff (dusri wali branch ka name  jis prr bethe nahi h )               breacket maay laga eeooo
-phir 2 methof h 
+phir 2 method h 
 i- pull request 
 ii - by VS code 
-toh is bar hum Vs code se karenge 
+
+-----Toh is bar hum Vs code se karenge------ 
 1.  git merge (dusri wali branch ka name jis prr hum nahi h )
 phir ya toh uppar jo option aa rahe h us se karlo 
 ya phir extra jo line aa rahi h us harao 
 phir add karlo  then commit normally 
 Phir check karne ke liye git diff( dusri wali branch ka name ) phir 
-git push origin main   karna h   
-
-
-
-
-
-
-
-
-
+2.  git push origin main   karna h   
 
